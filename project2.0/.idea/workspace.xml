@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="project:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a066328-3970-4f85-af3e-4730758d54d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S62hpJBkyyB8SFadDpMe8cAurR" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Board">
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameSet" />
+      <module name="project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Board" />
+        <item itemvalue="Application.GameSet" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a066328-3970-4f85-af3e-4730758d54d8" name="Default Changelist" comment="" />
+      <created>1570869846686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570869846686</updated>
+      <workItem from="1570869862163" duration="10572000" />
+      <workItem from="1570936978094" duration="1434000" />
+      <workItem from="1570939838662" duration="647000" />
+      <workItem from="1573364155012" duration="20081000" />
+      <workItem from="1573471833512" duration="11257000" />
+      <workItem from="1573483798824" duration="763000" />
+      <workItem from="1573484633415" duration="3384000" />
+      <workItem from="1573982505917" duration="24637000" />
+      <workItem from="1574081389181" duration="10740000" />
+      <workItem from="1574170885547" duration="7202000" />
+      <workItem from="1574397470619" duration="10976000" />
+      <workItem from="1574430069128" duration="11055000" />
+      <workItem from="1574497237055" duration="7332000" />
+      <workItem from="1574519843885" duration="6699000" />
+      <workItem from="1574564906973" duration="36096000" />
+      <workItem from="1574603040598" duration="2922000" />
+      <workItem from="1574607327418" duration="1150000" />
+      <workItem from="1574608958896" duration="8000" />
+      <workItem from="1574609018944" duration="21000" />
+      <workItem from="1574683661288" duration="11471000" />
+      <workItem from="1574695226528" duration="6716000" />
+      <workItem from="1574702641939" duration="5616000" />
+      <workItem from="1574708394309" duration="44000" />
+      <workItem from="1574709341343" duration="2269000" />
+      <workItem from="1574736268567" duration="5502000" />
+      <workItem from="1574743718564" duration="423000" />
+      <workItem from="1574744156579" duration="41000" />
+      <workItem from="1574744631815" duration="2756000" />
+      <workItem from="1574747595139" duration="2957000" />
+      <workItem from="1574764246121" duration="97000" />
+      <workItem from="1575089762831" duration="2093000" />
+      <workItem from="1575620018174" duration="81000" />
+      <workItem from="1582532349473" duration="3184000" />
+      <workItem from="1583306396657" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="playerStage.getStage()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
